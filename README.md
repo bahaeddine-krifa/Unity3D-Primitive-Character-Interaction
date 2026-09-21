@@ -71,4 +71,4 @@ To open and run this project, you need:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Unity3D-Primitive-Character-Interaction.git
+   git clone https://github.com/bahaeddine-krifa/Unity3D-Primitive-Character-Interaction.git
